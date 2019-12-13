@@ -1,0 +1,1 @@
+//script enables the mailing service

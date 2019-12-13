@@ -1,0 +1,1 @@
+// contract supporting the dmailservice
